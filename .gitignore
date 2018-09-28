@@ -1,1 +1,6 @@
+# Ignore everything
 imgur/*
+
+# But not these files
+!.gitignore
+!imgur/.emptyfile
